@@ -1,0 +1,7 @@
+mErrorCode:\s0x(8032\d{4})
+mErrorCode:\s0x(803302c\d)
+mErrorCode:\s0x(8033020e)
+mErrorCode:\s0x(80030008)
+mErrorCode:\s0x(80320014)
+mErrorCode:\s0x(8033021f)
+verifiedStatus:(Verified)\sdiscovery

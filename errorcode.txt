@@ -1,0 +1,2 @@
+mErrorCode:\s0x(\d{8})
+verifiedStatus:(.*)\sdiscovery
